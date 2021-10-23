@@ -1,0 +1,7 @@
+//리포지터리에서 폴더를 먼저 만들고 파일을 넣을 수 있음
+git clone https://github.com/ZunaTtang/gitIgnoreTest.git
+
+//원치않는 확장자 안보이게
+.ignore 파일 생성 후 추가
+
+//gitignore.io 사이트 활용
